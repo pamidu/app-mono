@@ -11,4 +11,4 @@ There are 5 repositories involved:
 - [Orchestrator job](https://github.com/infracloudio/app-mono-orchestrator)
 - [Jenkins Setup for end to end example](https://github.com/infracloudio/app-mono-jenkins-setup)
 
-For details on setting it up, [check the repo](https://github.com/infracloudio/app-mono-jenkins-setup)
+For details on setup [check the repo](https://github.com/infracloudio/app-mono-jenkins-setup)
